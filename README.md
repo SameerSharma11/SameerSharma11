@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SameerSharma11
+- 👋 Hi, I’m SameerSharma
 - 👀 I’m interested in Programming, Space Science, Video Editing
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me: sameersh571@gmail.com
